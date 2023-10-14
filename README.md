@@ -1,4 +1,4 @@
-<img src="/>
+<img align="center" alt="banner" width="1000" src="https://media1.tenor.com/images/ba6d7d37fa1e4ca966ac7328bf43b96c/tenor.gif?itemid=18657810">
 <h1 align="center">Hi 👋, I'm Swagat Nanda</h1>
 <h3 align="center">A Passionate Software Developer From India</h3>
 
