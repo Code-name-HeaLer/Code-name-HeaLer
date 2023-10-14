@@ -1,3 +1,4 @@
+<img src="/>
 <h1 align="center">Hi 👋, I'm Swagat Nanda</h1>
 <h3 align="center">A Passionate Software Developer From India</h3>
 
