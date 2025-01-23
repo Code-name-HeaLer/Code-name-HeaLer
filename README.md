@@ -8,9 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/codename_healer" target="blank"><img src="https://img.shields.io/twitter/follow/codename_healer?logo=twitter&style=for-the-badge" alt="codename_healer" /></a> </p>
 
-- 🌱 I’m currently learning **Web development, DSA**
+## 🚀 About Me
 
-- 💬 Ask me about **CSS, JavaScript**
+- 💼 Aspiring **Software Engineer**
+
+- 🌱 I’m currently learning **Web development with AI integration, DSA**
 
 - 📫 How to reach me **swagatprasad3344@gmail.com**
 
