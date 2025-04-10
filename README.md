@@ -25,11 +25,22 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/css-118-569410.png" alt="css3" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://pluspng.com/img-png/javascript-vector-png-javascript-vector-logo-600.png" alt="javascript" width="40" height="40"/> </a> <a href="https://www.react.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="reactjs" width="45" height="45"/> </a> <a href="https://www.nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluent-systems-filled/512/FFFFFF/nextjs.png" alt="nextjs" width="50" height="50"/> </a> <a href="https://www.vite.dev/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" alt="vite" width="45" height="50"/> </a> <a href="https://www.vercel.com/" target="_blank" rel="noreferrer"> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/vercel.png" alt="vite" width="45" height="50"/> </a> <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Veutify.svg" alt="vite" width="45" height="50"/> </a>
+<p align="left">
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/css-118-569410.png" alt="css3" width="50" height="50"/> </a> 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://pluspng.com/img-png/javascript-vector-png-javascript-vector-logo-600.png" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+<a href="https://www.react.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="reactjs" width="45" height="45"/> </a> 
+<a href="https://www.nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluent-systems-filled/512/FFFFFF/nextjs.png" alt="nextjs" width="50" height="50"/> </a> 
+<a href="https://www.vite.dev/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" alt="vite" width="45" height="50"/> </a> 
+<a href="https://cursor.sh/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/png/cursor.png" alt="cursorai" width="40" height="40"/> </a> 
+<a href="https://www.vercel.com/" target="_blank" rel="noreferrer"> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/vercel.png" alt="vercel" width="45" height="50"/> </a> 
+<a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Veutify.svg" alt="netlify" width="45" height="50"/> </a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-name-healer&show_icons=true&locale=en&layout=compact" alt="code-name-healer" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-name-healer&show_icons=true&locale=en" alt="code-name-healer" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=code-name-healer&show_icons=true&locale=en" alt="code-name-healer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-name-healer&" alt="code-name-healer" /></p>
