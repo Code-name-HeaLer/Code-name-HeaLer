@@ -48,101 +48,89 @@ console.log("Welcome to my digital space! 🚀");
 <div align="center">
 
 ### **Frontend Technologies**
-
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="96" align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td width="96" align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" />
-      <br>CSS3
-    </td>
-    <td width="96" align="center">
-      <img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td width="96" align="center">
-      <img src="https://skillicons.dev/icons?i=ts" width="65" height="65" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td width="96" align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" />
-      <br>React
-    </td>
-    <td width="96" align="center">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td width="96" align="center">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind CSS" />
-      <br>Tailwind CSS
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5 logo"  />
+  </a>
+   
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS3 logo"  />
+  </a>
+   
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript logo"  />
+  </a>
+   
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=ts" height="50" alt="TypeScript logo"  />
+  </a>
+   
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=react" height="50" alt="React logo"  />
+  </a>
+   
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="Next.js logo"  />
+  </a>
+   
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS logo"  />
+  </a>
+</p>
 
 ### **Backend Technologies**
-
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="96" align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td width="96" align="center">
-      <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express.js" />
-      <br>Express.js
-    </td>
-    <td width="96" align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td width="96" align="center">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="65" height="65" alt="SQLite" />
-      <br>SQLite
-    </td>
-    <td width="96" align="center">
-      <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td width="96" align="center">
-      <img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="Redis" />
-      <br>Redis
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js logo"  />
+  </a>
+   
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=express" height="50" alt="Express.js logo"  />
+  </a>
+   
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB logo"  />
+  </a>
+   
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="SQLite logo"  />
+  </a>
+   
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="PostgreSQL logo"  />
+  </a>
+   
+  <a href="https://redis.io" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=redis" height="50" alt="Redis logo"  />
+  </a>
+</p>
 
 ### **Tools & Platforms**
-
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="96" align="center">
-      <img src="https://skillicons.dev/icons?i=vite" width="65" height="65" alt="Vite" />
-      <br>Vite
-    </td>
-    <td width="96" align="center">
-      <img src="https://skillicons.dev/icons?i=vercel" width="65" height="65" alt="Vercel" />
-      <br>Vercel
-    </td>
-    <td width="96" align="center">
-      <img src="https://skillicons.dev/icons?i=netlify" width="65" height="65" alt="Netlify" />
-      <br>Netlify
-    </td>
-    <td width="96" align="center">
-      <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td width="96" align="center">
-      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
-      <br>Git
-    </td>
-    <td width="96" align="center">
-      <img src="https://cdn.brandfetch.io/cursor.com/fallback/lettermark/theme/dark/h/256/w/256/icon?c=1bfwsmEH20zzEfSNTed" width="65" height="65" alt="Cursor AI" />
-      <br>Cursor
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=vite" height="50" alt="Vite logo"  />
+  </a>
+   
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="Vercel logo"  />
+  </a>
+   
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=netlify" height="50" alt="Netlify logo"  />
+  </a>
+   
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub logo"  />
+  </a>
+   
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git logo"  />
+  </a>
+   
+  <a href="https://cursor.sh/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.brandfetch.io/cursor.com/fallback/lettermark/theme/dark/h/256/w/256/icon?c=1bfwsmEH20zzEfSNTed" height="50" alt="Cursor AI logo"  />
+  </a>
+</p>
 
 </div>
 
