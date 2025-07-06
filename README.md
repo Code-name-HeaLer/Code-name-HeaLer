@@ -48,101 +48,51 @@ console.log("Welcome to my digital space! 🚀");
 <div align="center">
 
 ### **Frontend Technologies**
-
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="96" align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td width="96" align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" />
-      <br>CSS3
-    </td>
-    <td width="96" align="center">
-      <img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td width="96" align="center">
-      <img src="https://skillicons.dev/icons?i=ts" width="65" height="65" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td width="96" align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" />
-      <br>React
-    </td>
-    <td width="96" align="center">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td width="96" align="center">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind CSS" />
-      <br>Tailwind CSS
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
+   
+  <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" />
+   
+  <img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="JavaScript" />
+   
+  <img src="https://skillicons.dev/icons?i=ts" width="65" height="65" alt="TypeScript" />
+   
+  <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" />
+   
+  <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Next.js" />
+   
+  <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind CSS" />
+</p>
 
 ### **Backend Technologies**
-
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="96" align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td width="96" align="center">
-      <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express.js" />
-      <br>Express.js
-    </td>
-    <td width="96" align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td width="96" align="center">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="65" height="65" alt="SQLite" />
-      <br>SQLite
-    </td>
-    <td width="96" align="center">
-      <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td width="96" align="center">
-      <img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="Redis" />
-      <br>Redis
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
+   
+  <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express.js" />
+   
+  <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+   
+  <img src="https://skillicons.dev/icons?i=sqlite" width="65" height="65" alt="SQLite" />
+   
+  <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
+   
+  <img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="Redis" />
+</p>
 
 ### **Tools & Platforms**
-
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="96" align="center">
-      <img src="https://skillicons.dev/icons?i=vite" width="65" height="65" alt="Vite" />
-      <br>Vite
-    </td>
-    <td width="96" align="center">
-      <img src="https://skillicons.dev/icons?i=vercel" width="65" height="65" alt="Vercel" />
-      <br>Vercel
-    </td>
-    <td width="96" align="center">
-      <img src="https://skillicons.dev/icons?i=netlify" width="65" height="65" alt="Netlify" />
-      <br>Netlify
-    </td>
-    <td width="96" align="center">
-      <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td width="96" align="center">
-      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
-      <br>Git
-    </td>
-    <td width="96" align="center">
-      <img src="https://cdn.brandfetch.io/cursor.com/fallback/lettermark/theme/dark/h/256/w/256/icon?c=1bfwsmEH20zzEfSNTed" width="65" height="65" alt="Cursor AI" />
-      <br>Cursor
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vite" width="65" height="65" alt="Vite" />
+   
+  <img src="https://skillicons.dev/icons?i=vercel" width="65" height="65" alt="Vercel" />
+   
+  <img src="https://skillicons.dev/icons?i=netlify" width="65" height="65" alt="Netlify" />
+   
+  <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
+   
+  <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+   
+  <img src="https://cdn.brandfetch.io/cursor.com/fallback/lettermark/theme/dark/h/256/w/256/icon?c=1bfwsmEH20zzEfSNTed" width="65" height="65" alt="Cursor AI" />
+</p>
 
 </div>
 
