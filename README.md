@@ -131,7 +131,7 @@ console.log("Welcome to my digital space! 🚀");
 
 <div align="center">
 
-<p align="center">
+<p>
   <a href="https://twitter.com/codename_healer" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=twitter" width="65" height="65" alt="Twitter" />
   </a>
@@ -150,9 +150,9 @@ console.log("Welcome to my digital space! 🚀");
 ---
 
 <div align="center">
-  
-### 💫 **"Code is like humor. When you have to explain it, it's bad."** 
-*– Cory House*
+
+> ### 💫 "Code is like humor. When you have to explain it, it's bad."
+> *– Cory House*
 
 </div>
 
