@@ -1,4 +1,4 @@
-# 🚀 **Swagat Prasad Nanda** | Software Development Engineer
+# 🚀 **Swagat Prasad Nanda** | Software Engineer
 
 <div align="center">
   
@@ -48,21 +48,98 @@ console.log("Welcome to my digital space! 🚀");
 <div align="center">
 
 ### **Frontend Technologies**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
+<br><strong>HTML5</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" />
+<br><strong>CSS3</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="JavaScript" />
+<br><strong>JavaScript</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ts" width="65" height="65" alt="TypeScript" />
+<br><strong>TypeScript</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" />
+<br><strong>React</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Next.js" />
+<br><strong>Next.js</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind CSS" />
+<br><strong>Tailwind CSS</strong>
+</td>
+</tr>
+</table>
+
+### **Backend Technologies**
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
+<br><strong>Node.js</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express.js" />
+<br><strong>Express.js</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+<br><strong>MongoDB</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=sqlite" width="65" height="65" alt="SQLite" />
+<br><strong>SQLite</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
+<br><strong>PostgreSQL</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="Redis" />
+<br><strong>Redis</strong>
+</td>
+</tr>
+</table>
 
 ### **Tools & Platforms**
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Cursor AI](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vite" width="65" height="65" alt="Vite" />
+<br><strong>Vite</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vercel" width="65" height="65" alt="Vercel" />
+<br><strong>Vercel</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=netlify" width="65" height="65" alt="Netlify" />
+<br><strong>Netlify</strong>
+</td>
+<td align="center" width="96">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="65" height="65" alt="GitHub" />
+<br><strong>GitHub</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+<br><strong>Git</strong>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.brandfetch.io/cursor.com/fallback/lettermark/theme/dark/h/256/w/256/icon?c=1bfwsmEH20zzEfSNTed" width="65" height="65" alt="Cursor AI" />
+<br><strong>Cursor AI</strong>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -78,6 +155,22 @@ console.log("Welcome to my digital space! 🚀");
 <div align="center">
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=code-name-healer&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+
+</div>
+
+## 🏆 **GitHub Achievements**
+
+<div align="center">
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=code-name-healer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+
+</div>
+
+## 📈 **Contribution Graph**
+
+<div align="center">
+  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=code-name-healer&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)
 
 </div>
 
