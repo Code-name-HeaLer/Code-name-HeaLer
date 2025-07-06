@@ -48,7 +48,7 @@ console.log("Welcome to my digital space! 🚀");
 <div align="center">
 
 ### **Frontend Technologies**
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
@@ -82,7 +82,7 @@ console.log("Welcome to my digital space! 🚀");
 </table>
 
 ### **Backend Technologies**
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
@@ -112,7 +112,7 @@ console.log("Welcome to my digital space! 🚀");
 </table>
 
 ### **Tools & Platforms**
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vite" width="65" height="65" alt="Vite" />
