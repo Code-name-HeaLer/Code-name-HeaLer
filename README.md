@@ -13,14 +13,6 @@
     <a href="https://komarev.com/ghpvc/?username=code-name-healer">
       <img src="https://komarev.com/ghpvc/?username=code-name-healer&label=Profile%20Views&color=00d9ff&style=social" alt="Profile Views" />
     </a>
-        
-    <a href="https://twitter.com/intent/follow?screen_name=codename_healer">
-      <img src="https://img.shields.io/twitter/follow/codename_healer?style=social&logo=twitter" alt="Follow on Twitter" />
-    </a>
-        
-    <a href="https://linkedin.com/in/swagat-nanda">
-      <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=social&logo=linkedin" alt="Connect on LinkedIn" />
-    </a>
   </p>
 </div>
 
