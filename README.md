@@ -139,7 +139,7 @@ console.log("Welcome to my digital space! 🚀");
   <a href="https://linkedin.com/in/swagat-nanda" target="_blank" rel="noreferrer"><span>
     <img src="https://skillicons.dev/icons?i=linkedin" width="65" height="65" alt="LinkedIn" />
   </span></a>
-     &_blank" rel="noreferrer">
+     
   <a href="mailto:swagatprasad3344@gmail.com"><span>
     <img src="https://skillicons.dev/icons?i=gmail" width="65" height="65" alt="Gmail" />
   </span></a>
