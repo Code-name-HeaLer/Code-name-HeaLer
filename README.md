@@ -81,22 +81,6 @@ console.log("Welcome to my digital space! 🚀");
 
 </div>
 
-## 🏆 **GitHub Achievements**
-
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=code-name-healer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
-## 📈 **Contribution Graph**
-
-<div align="center">
-  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=code-name-healer&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)
-
-</div>
-
 ## 🌐 **Connect With Me**
 
 <div align="center">
