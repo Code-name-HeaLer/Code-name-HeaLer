@@ -1,4 +1,4 @@
-# 🚀 **Swagat Nanda** | Software Engineer
+# 🚀 **Swagat Prasad Nanda** | Software Engineer
 
 <div align="center">
   
