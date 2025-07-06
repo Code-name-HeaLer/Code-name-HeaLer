@@ -132,17 +132,17 @@ console.log("Welcome to my digital space! 🚀");
 <div align="center">
 
 <p>
-  <a href="https://twitter.com/codename_healer" target="_blank" rel="noreferrer">
+  <a href="https://twitter.com/codename_healer" target="_blank" rel="noreferrer"><span>
     <img src="https://skillicons.dev/icons?i=twitter" width="65" height="65" alt="Twitter" />
-  </a>
+  </span></a>
       
-  <a href="https://linkedin.com/in/swagat-nanda" target="_blank" rel="noreferrer">
+  <a href="https://linkedin.com/in/swagat-nanda" target="_blank" rel="noreferrer"><span>
     <img src="https://skillicons.dev/icons?i=linkedin" width="65" height="65" alt="LinkedIn" />
-  </a>
-      
-  <a href="mailto:swagatprasad3344@gmail.com">
+  </span></a>
+     &_blank" rel="noreferrer">
+  <a href="mailto:swagatprasad3344@gmail.com"><span>
     <img src="https://skillicons.dev/icons?i=gmail" width="65" height="65" alt="Gmail" />
-  </a>
+  </span></a>
 </p>
 
 </div>
@@ -151,11 +151,10 @@ console.log("Welcome to my digital space! 🚀");
 
 <div align="center">
 
-> ### 💫 "Code is like humor. When you have to explain it, it's bad."
-> *– Cory House*
+### 💫 "Code is like humor. When you have to explain it, it's bad."
+*– Cory House*
 
 </div>
-
   
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=75)
 
