@@ -48,7 +48,7 @@ console.log("Welcome to my digital space! 🚀");
 <div align="center">
 
 ### **Frontend Technologies**
-<table style="border-collapse: collapse; border: none;">
+<table border="0" cellspacing="0" cellpadding="0" style="border: none;">
 <tr>
 <td align="center" width="96" style="border: none;">
 <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
