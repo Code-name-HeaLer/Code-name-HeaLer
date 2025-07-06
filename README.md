@@ -1,4 +1,4 @@
-# 🚀 **Swagat Prasad Nanda** | Software Engineer
+# 🚀 **Swagat Prasad Nanda** | Software Development Engineer
 
 <div align="center">
   
@@ -21,7 +21,7 @@
 ```javascript
 const swagat = {
     location: "India 🇮🇳",
-    role: "Aspiring Software Engineer",
+    role: "Software Development Engineer",
     currentFocus: ["Web Development", "AI Integration", "DSA"],
     passions: ["Clean Code", "Problem Solving", "Innovation"],
     funFact: "I explore abandoned places for adventure! 🏚️",
