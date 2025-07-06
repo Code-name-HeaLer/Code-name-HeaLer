@@ -127,16 +127,25 @@ console.log("Welcome to my digital space! 🚀");
 
 </div>
 
-## 🌐 **Connect With Me**
+## 🌐 Connect With Me
 
 <div align="center">
-  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/codename_healer)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swagat-nanda)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swagatprasad3344@gmail.com)
+
+<p align="center">
+  <a href="https://twitter.com/codename_healer" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=twitter" width="65" height="65" alt="Twitter" />
+  </a>
+      
+  <a href="https://linkedin.com/in/swagat-nanda" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="65" height="65" alt="LinkedIn" />
+  </a>
+      
+  <a href="mailto:swagatprasad3344@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="65" height="65" alt="Gmail" />
+  </a>
+</p>
 
 </div>
-
 ---
 
 <div align="center">
