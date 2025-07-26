@@ -104,42 +104,28 @@ console.log("Welcome to my digital space! 🚀");
 </div>
 <br>
 
-<table align="center" cellspacing="0" cellpadding="10" width="100%">
-  <!-- ROW 1: Web Projects -->
-  <tr valign="top">
-    <!-- Project 1: Socratic Mentor -->
-    <td width="50%">
-      <table width="100%"><tr><td align="left"><h3>Socratic Mentor</h3></td><td align="right"><img src="https://img.shields.io/badge/Web-007BFF?style=flat-square" alt="Web Badge"/></td></tr></table>
-      <a href="https://github.com/code-name-healer/socratic-mentor" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-name-healer&repo=socratic-mentor&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="Socratic Mentor Repo Card"/>
-      </a>
-    </td>
-    <!-- Project 2: Code-to-Doc AI -->
-    <td width="50%">
-      <table width="100%"><tr><td align="left"><h3>Code-to-Doc AI</h3></td><td align="right"><img src="https://img.shields.io/badge/Web-007BFF?style=flat-square" alt="Web Badge"/></td></tr></table>
-      <a href="https://github.com/code-name-healer/code-to-doc-ai" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-name-healer&repo=code-to-doc-ai&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="Code-to-Doc AI Repo Card"/>
-      </a>
-    </td>
-  </tr>
-  <!-- ROW 2: Mobile App Projects -->
-  <tr valign="top">
-    <!-- Project 3: Echoes Journal -->
-    <td width="50%">
-      <table width="100%"><tr><td align="left"><h3>Echoes Journal</h3></td><td align="right"><img src="https://img.shields.io/badge/App-28A745?style=flat-square" alt="App Badge"/></td></tr></table>
-      <a href="https://github.com/code-name-healer/echoes-journal" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-name-healer&repo=echoes-journal&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="Echoes Journal Repo Card"/>
-      </a>
-    </td>
-    <!-- Project 4: PantryChef AI -->
-    <td width="50%">
-      <table width="100%"><tr><td align="left"><h3>PantryChef AI</h3></td><td align="right"><img src="https://img.shields.io/badge/App-28A745?style=flat-square" alt="App Badge"/></td></tr></table>
-      <a href="https://github.com/code-name-healer/pantrychef-ai" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-name-healer&repo=pantrychef-ai&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="PantryChef AI Repo Card"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <!-- Socratic Mentor -->
+  <a href="https://github.com/code-name-healer/socratic-mentor" target="_blank" style="display: inline-block; margin: 10px;">
+    <img src="https://img.shields.io/badge/Web%20Project-007BFF?style=for-the-badge" alt="Web Project Badge"/><br>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-name-healer&repo=socratic-mentor&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="Socratic Mentor Repo Card"/>
+  </a>
+  <!-- Code-to-Doc AI -->
+  <a href="https://github.com/code-name-healer/code-to-doc-ai" target="_blank" style="display: inline-block; margin: 10px;">
+    <img src="https://img.shields.io/badge/Web%20Project-007BFF?style=for-the-badge" alt="Web Project Badge"/><br>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-name-healer&repo=code-to-doc-ai&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="Code-to-Doc AI Repo Card"/>
+  </a>
+  <!-- Echoes Journal -->
+  <a href="https://github.com/code-name-healer/echoes-journal" target="_blank" style="display: inline-block; margin: 10px;">
+    <img src="https://img.shields.io/badge/Mobile%20App-28A745?style=for-the-badge" alt="Mobile App Badge"/><br>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-name-healer&repo=echoes-journal&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="Echoes Journal Repo Card"/>
+  </a>
+  <!-- PantryChef AI -->
+  <a href="https://github.com/code-name-healer/pantrychef-ai" target="_blank" style="display: inline-block; margin: 10px;">
+    <img src="https://img.shields.io/badge/Mobile%20App-28A745?style=for-the-badge" alt="Mobile App Badge"/><br>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-name-healer&repo=pantrychef-ai&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="PantryChef AI Repo Card"/>
+  </a>
+</p>
 
 ## 📊 **GitHub Analytics**
 
