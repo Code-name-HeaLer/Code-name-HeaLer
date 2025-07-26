@@ -97,6 +97,58 @@ console.log("Welcome to my digital space! 🚀");
 
 </div>
 
+## 🏆 My Priced Possessions
+
+<div align="center">
+<i>Here are some of the projects I'm incredibly proud of. They represent my journey into deep, meaningful development.</i>
+</div>
+<br>
+
+<table align="center" cellspacing="0" cellpadding="10" width="100%">
+  <!-- ROW 1: Web Projects -->
+  <tr valign="top">
+    <!-- Project 1: Socratic Mentor -->
+    <td width="50%">
+      <div align="center">
+        <img src="https://img.shields.io/badge/Web%20Project-007BFF?style=for-the-badge&logo=react&logoColor=white" alt="Web Project Tag"/><br><br>
+        <a href="https://github.com/code-name-healer/socratic-mentor" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-name-healer&repo=socratic-mentor&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="Socratic Mentor Repo Card"/>
+        </a>
+      </div>
+    </td>
+    <!-- Project 2: Code-to-Doc AI -->
+    <td width="50%">
+      <div align="center">
+        <img src="https://img.shields.io/badge/Web%20Project-007BFF?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Web Project Tag"/><br><br>
+        <a href="https://github.com/code-name-healer/code-to-doc-ai" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-name-healer&repo=code-to-doc-ai&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="Code-to-Doc AI Repo Card"/>
+        </a>
+      </div>
+    </td>
+  </tr>
+  <!-- ROW 2: Mobile App Projects -->
+  <tr valign="top">
+    <!-- Project 3: Echoes Journal -->
+    <td width="50%">
+      <div align="center">
+        <img src="https://img.shields.io/badge/Mobile%20App-28A745?style=for-the-badge&logo=android&logoColor=white" alt="Mobile App Tag"/><br><br>
+        <a href="https://github.com/code-name-healer/echoes-journal" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-name-healer&repo=echoes-journal&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="Echoes Journal Repo Card"/>
+        </a>
+      </div>
+    </td>
+    <!-- Project 4: PantryChef AI -->
+    <td width="50%">
+      <div align="center">
+        <img src="https://img.shields.io/badge/Mobile%20App-28A745?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Mobile App Tag"/><br><br>
+        <a href="https://github.com/code-name-healer/pantrychef-ai" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-name-healer&repo=pantrychef-ai&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="PantryChef AI Repo Card"/>
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
 ## 📊 **GitHub Analytics**
 
 <div align="center">
