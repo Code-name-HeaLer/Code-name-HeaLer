@@ -97,7 +97,7 @@ console.log("Welcome to my digital space! 🚀");
 
 </div>
 
-## 🏆 My Priced Possessions
+## 🏆 Recent Projects
 
 <div align="center">
 <i>Here are some of the projects I'm incredibly proud of. They represent my journey into deep, meaningful development.</i>
