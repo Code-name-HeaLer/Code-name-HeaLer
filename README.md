@@ -114,8 +114,8 @@ console.log("Welcome to my digital space! 🚀");
 </p>
 
 <p align="center">
-  <a href="https://github.com/code-name-healer/echoes-journal" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-name-healer&repo=echoes-journal&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="Echoes Journal Repo Card"/>
+  <a href="https://github.com/Code-name-HeaLer/RollCall" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-name-healer&repo=RollCall&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="RollCall Pro Repo Card"/>
   </a>
   <a href="https://github.com/code-name-healer/pantrychef-ai" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-name-healer&repo=pantrychef-ai&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="PantryChef AI Repo Card"/>
