@@ -11,7 +11,7 @@
 <div align="center">
   <p>
     <a href="https://komarev.com/ghpvc/?username=code-name-healer">
-      <img src="https://komarev.com/ghpvc/?username=code-name-healer&label=Profile%20Views&color=00d9ff&style=social" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=code-name-healer&label=Profile%20Views&color=2c2c2c&style=social" alt="Profile Views" />
     </a>
   </p>
 </div>
