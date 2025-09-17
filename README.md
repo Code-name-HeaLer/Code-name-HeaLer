@@ -117,8 +117,8 @@ console.log("Welcome to my digital space! 🚀");
   <a href="https://github.com/Code-name-HeaLer/RollCall" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-name-healer&repo=RollCall&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="RollCall Pro Repo Card"/>
   </a>
-  <a href="https://github.com/code-name-healer/Fast-Food-Delivery-APP" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-name-healer&repo=Fast-Food-Delivery-APP&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="PantryChef AI Repo Card"/>
+  <a href="https://github.com/Code-name-HeaLer/QuickBite-Fast-Food-Delivery-App" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-name-healer&repo=QuickBite-Fast-Food-Delivery-App&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="QuickBite Repo Card"/>
   </a>
 </p>
 
