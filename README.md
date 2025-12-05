@@ -106,22 +106,21 @@ console.log("Welcome to my digital space! 🚀");
 
 <p align="center">
   <a href="https://github.com/Code-name-HeaLer/Resume-Mind" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-name-healer&repo=Resume-Mind&theme=tokyonight&hide_border=true" alt="Resume Mind Repo Card"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Code-name-HeaLer&repo=Resume-Mind&theme=tokyonight&hide_border=true" alt="Resume Mind Repo Card"/>
   </a>
   <a href="https://github.com/Code-name-HeaLer/Gaming-Awards" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-name-healer&repo=Gaming-Awards&theme=tokyonight&hide_border=true" alt="Gaming Awards Repo Card"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Code-name-HeaLer&repo=Gaming-Awards&theme=tokyonight&hide_border=true" alt="Gaming Awards Repo Card"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Code-name-HeaLer/RollCall" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-name-healer&repo=RollCall&theme=tokyonight&hide_border=true" alt="RollCall Repo Card"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Code-name-HeaLer&repo=RollCall&theme=tokyonight&hide_border=true" alt="RollCall Repo Card"/>
   </a>
   <a href="https://github.com/Code-name-HeaLer/QuickBite-Fast-Food-Delivery-App" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=code-name-healer&repo=QuickBite-Fast-Food-Delivery-App&theme=tokyonight&hide_border=true" alt="QuickBite Repo Card"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Code-name-HeaLer&repo=QuickBite-Fast-Food-Delivery-App&theme=tokyonight&hide_border=true" alt="QuickBite Repo Card"/>
   </a>
 </p>
-
 ## 📊 **GitHub Analytics**
 
 <div align="center">
