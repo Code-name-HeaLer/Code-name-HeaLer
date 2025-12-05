@@ -106,19 +106,19 @@ console.log("Welcome to my digital space! 🚀");
 
 <p align="center">
   <a href="https://github.com/Code-name-HeaLer/Resume-Mind">
-    <img src="https://socialify.git.ci/Code-name-HeaLer/Resume-Mind/image?description=1&font=Raleway&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="Resume Mind" />
+    <img width="400" src="https://socialify.git.ci/Code-name-HeaLer/Resume-Mind/image?description=1&font=Raleway&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="Resume Mind" />
   </a>
   <a href="https://github.com/Code-name-HeaLer/Gaming-Awards">
-    <img src="https://socialify.git.ci/Code-name-HeaLer/Gaming-Awards/image?description=1&font=Raleway&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="Gaming Awards" />
+    <img width="400" src="https://socialify.git.ci/Code-name-HeaLer/Gaming-Awards/image?description=1&font=Raleway&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="Gaming Awards" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Code-name-HeaLer/RollCall">
-    <img src="https://socialify.git.ci/Code-name-HeaLer/RollCall/image?description=1&font=Raleway&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="RollCall" />
+    <img width="400" src="https://socialify.git.ci/Code-name-HeaLer/RollCall/image?description=1&font=Raleway&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="RollCall" />
   </a>
   <a href="https://github.com/Code-name-HeaLer/QuickBite-Fast-Food-Delivery-App">
-    <img src="https://socialify.git.ci/Code-name-HeaLer/QuickBite-Fast-Food-Delivery-App/image?description=1&font=Raleway&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="QuickBite" />
+    <img width="400" src="https://socialify.git.ci/Code-name-HeaLer/QuickBite-Fast-Food-Delivery-App/image?description=1&font=Raleway&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="QuickBite" />
   </a>
 </p>
 
