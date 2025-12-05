@@ -105,20 +105,20 @@ console.log("Welcome to my digital space! 🚀");
 <br>
 
 <p align="center">
-  <a href="https://github.com/Code-name-HeaLer/Resume-Mind" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Code-name-HeaLer&repo=Resume-Mind&theme=tokyonight&hide_border=true" alt="Resume Mind"/>
+  <a href="https://github.com/Code-name-HeaLer/Resume-Mind">
+    <img src="https://socialify.git.ci/Code-name-HeaLer/Resume-Mind/image?description=1&font=Raleway&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="Resume Mind" />
   </a>
-  <a href="https://github.com/Code-name-HeaLer/Gaming-Awards" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Code-name-HeaLer&repo=Gaming-Awards&theme=tokyonight&hide_border=true" alt="Gaming Awards"/>
+  <a href="https://github.com/Code-name-HeaLer/Gaming-Awards">
+    <img src="https://socialify.git.ci/Code-name-HeaLer/Gaming-Awards/image?description=1&font=Raleway&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="Gaming Awards" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Code-name-HeaLer/RollCall" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Code-name-HeaLer&repo=RollCall&theme=tokyonight&hide_border=true" alt="RollCall"/>
+  <a href="https://github.com/Code-name-HeaLer/RollCall">
+    <img src="https://socialify.git.ci/Code-name-HeaLer/RollCall/image?description=1&font=Raleway&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="RollCall" />
   </a>
-  <a href="https://github.com/Code-name-HeaLer/QuickBite-Fast-Food-Delivery-App" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Code-name-HeaLer&repo=QuickBite-Fast-Food-Delivery-App&theme=tokyonight&hide_border=true" alt="QuickBite"/>
+  <a href="https://github.com/Code-name-HeaLer/QuickBite-Fast-Food-Delivery-App">
+    <img src="https://socialify.git.ci/Code-name-HeaLer/QuickBite-Fast-Food-Delivery-App/image?description=1&font=Raleway&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="QuickBite" />
   </a>
 </p>
 
