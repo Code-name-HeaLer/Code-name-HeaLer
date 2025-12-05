@@ -126,8 +126,11 @@ console.log("Welcome to my digital space! 🚀");
 
 <div align="center">
   
-![Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Code-name-HeaLer?cardType=level&theme=tokyonight&preferLogin=false&Background=0D1117&Border=00D9FF&Title=00D9FF&Text=FFFFFF&Ring=00D9FF)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Code-name-HeaLer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Code-name-HeaLer&theme=tokyonight)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Code-name-HeaLer&theme=tokyonight" height="180em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Code-name-HeaLer&theme=tokyonight" height="180em"/>
+
 </div>
 
 <div align="center">
