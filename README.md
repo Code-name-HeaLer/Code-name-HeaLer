@@ -126,7 +126,7 @@ console.log("Welcome to my digital space! 🚀");
 
 <div align="center">
   
-![Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Code-name-HeaLer?cardType=level&theme=tokyonight&preferLogin=false&Background=0D1117&Border=0D1117&Title=00D9FF&Text=FFFFFF&Ring=00D9FF&TextFont=JetBrains+Mono)
+![Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Code-name-HeaLer?cardType=level&theme=tokyonight&preferLogin=false&Background=0D1117&Border=0D1117&Title=00D9FF&Text=FFFFFF&Ring=00D9FF&TextFont=Fira+Code)
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Code-name-HeaLer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff"/>
 
 </div>
