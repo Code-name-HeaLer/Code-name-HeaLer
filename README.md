@@ -126,10 +126,8 @@ console.log("Welcome to my digital space! 🚀");
 
 <div align="center">
   
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Code-name-HeaLer&theme=tokyonight)
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Code-name-HeaLer&theme=tokyonight" height="180em"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Code-name-HeaLer&theme=tokyonight" height="180em"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Code-name-HeaLer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Code-name-HeaLer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff"/>
 
 </div>
 
