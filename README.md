@@ -109,16 +109,16 @@ console.log("Welcome to my digital space! 🚀");
     <img src="https://socialify.git.ci/Code-name-HeaLer/Resume-Mind/image?description=1&font=JetBrains+Mono&language=1&name=1&owner=1&pattern=Transparent&theme=Dark" alt="Resume-Mind" width="350" />
   </a>
   <a href="https://github.com/Code-name-HeaLer/Gaming-Awards">
-    <img width="400" src="https://socialify.git.ci/Code-name-HeaLer/Gaming-Awards/image?description=1&font=Raleway&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="Gaming Awards" />
+    <img src="https://socialify.git.ci/Code-name-HeaLer/Gaming-Awards/image?description=1&font=JetBrains+Mono&language=1&name=1&owner=1&pattern=Transparent&theme=Dark" alt="Gaming-Awards" width="350" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Code-name-HeaLer/RollCall">
-    <img width="400" src="https://socialify.git.ci/Code-name-HeaLer/RollCall/image?description=1&font=Raleway&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="RollCall" />
+    <img src="https://socialify.git.ci/Code-name-HeaLer/RollCall/image?description=1&font=JetBrains+Mono&language=1&name=1&owner=1&pattern=Transparent&theme=Dark" alt="RollCall" width="350"/>
   </a>
   <a href="https://github.com/Code-name-HeaLer/QuickBite-Fast-Food-Delivery-App">
-    <img width="400" src="https://socialify.git.ci/Code-name-HeaLer/QuickBite-Fast-Food-Delivery-App/image?description=1&font=Raleway&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="QuickBite" />
+    <img src="https://socialify.git.ci/Code-name-HeaLer/QuickBite-Fast-Food-Delivery-App/image?description=1&font=JetBrains+Mono&language=1&name=1&owner=1&pattern=Transparent&theme=Dark" alt="QuickBite-Fast-Food-Delivery-App" width="350" />
   </a>
 </p>
 
