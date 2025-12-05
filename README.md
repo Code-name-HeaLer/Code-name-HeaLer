@@ -117,8 +117,8 @@ console.log("Welcome to my digital space! 🚀");
   <a href="https://github.com/Code-name-HeaLer/RollCall">
     <img src="https://socialify.git.ci/Code-name-HeaLer/RollCall/image?description=1&font=JetBrains+Mono&language=1&name=1&owner=1&pattern=Transparent&theme=Dark" alt="RollCall" width="350"/>
   </a>
-  <a href="https://github.com/Code-name-HeaLer/QuickBite-Fast-Food-Delivery-App">
-    <img src="https://socialify.git.ci/Code-name-HeaLer/QuickBite-Fast-Food-Delivery-App/image?description=1&font=JetBrains+Mono&language=1&name=1&owner=1&pattern=Transparent&theme=Dark" alt="QuickBite-Fast-Food-Delivery-App" width="350" />
+  <a href="https://github.com/Code-name-HeaLer/QuickBite">
+    <img src="https://socialify.git.ci/Code-name-HeaLer/QuickBite/image?description=1&font=JetBrains+Mono&language=1&name=1&owner=1&pattern=Transparent&theme=Dark" alt="QuickBite-Fast-Food-Delivery-App" width="350" />
   </a>
 </p>
 
