@@ -106,7 +106,7 @@ console.log("Welcome to my digital space! 🚀");
 
 <p align="center">
   <a href="https://github.com/Code-name-HeaLer/Resume-Mind">
-    <img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Code-name-HeaLer&repo=Resume-Mind&theme=radical&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&border_color=00D9FF" />
+    <img src="https://socialify.git.ci/Code-name-HeaLer/Resume-Mind/image?description=1&font=JetBrains+Mono&language=1&name=1&owner=1&pattern=Transparent&theme=Dark" alt="Resume-Mind" width="300" />
   </a>
   <a href="https://github.com/Code-name-HeaLer/Gaming-Awards">
     <img width="400" src="https://socialify.git.ci/Code-name-HeaLer/Gaming-Awards/image?description=1&font=Raleway&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="Gaming Awards" />
