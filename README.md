@@ -121,6 +121,7 @@ console.log("Welcome to my digital space! 🚀");
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Code-name-HeaLer&repo=QuickBite-Fast-Food-Delivery-App&theme=tokyonight&hide_border=true" alt="QuickBite Repo Card"/>
   </a>
 </p>
+
 ## 📊 **GitHub Analytics**
 
 <div align="center">
