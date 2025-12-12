@@ -108,8 +108,8 @@ console.log("Welcome to my digital space! 🚀");
   <a href="https://github.com/Code-name-HeaLer/Resume-Mind">
     <img src="https://socialify.git.ci/Code-name-HeaLer/Resume-Mind/image?description=1&font=JetBrains+Mono&language=1&name=1&owner=1&pattern=Transparent&theme=Dark" alt="Resume-Mind" width="350" />
   </a>
-  <a href="https://github.com/Code-name-HeaLer/Gaming-Awards">
-    <img src="https://socialify.git.ci/Code-name-HeaLer/Gaming-Awards/image?description=1&font=JetBrains+Mono&language=1&name=1&owner=1&pattern=Transparent&theme=Dark" alt="Gaming-Awards" width="350" />
+  <a href="https://github.com/Code-name-HeaLer/AI-Imapct-Sense">
+    <img src="https://socialify.git.ci/Code-name-HeaLer/AI-Imapct-Sense/image?description=1&font=JetBrains+Mono&language=1&name=1&owner=1&pattern=Transparent&theme=Dark" alt="Gaming-Awards" width="350" />
   </a>
 </p>
 
