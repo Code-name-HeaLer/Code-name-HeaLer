@@ -47,6 +47,20 @@ console.log("Welcome to my digital space! 🚀");
 
 <div align="center">
 
+### **Programming Languages**
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="C" />
+     
+  <img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" alt="C++" />
+     
+  <img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="Java" />
+     
+  <img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="JavaScript" />
+     
+  <img src="https://skillicons.dev/icons?i=python" width="65" height="65" alt="Python" />
+     
+</p>
+
 ### **Frontend Technologies**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
