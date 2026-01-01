@@ -64,17 +64,17 @@ console.log("Welcome to my digital space! 🚀");
 ### **Frontend Technologies**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
-   
+     
   <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" />
-   
+       
   <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind CSS" />
-   
+     
   <img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="JavaScript" />
-   
+     
   <img src="https://skillicons.dev/icons?i=ts" width="65" height="65" alt="TypeScript" />
-   
+     
   <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" />
-   
+     
   <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Next.js" />
    
 </p>
