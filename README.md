@@ -144,9 +144,11 @@ export default swagat;
 <!-- FEATURED PROJECTS SECTION -->
 <h2 align="center">🌟 FEATURED PROJECTS</h2>
 
-<table width="100%" align="center">
-  <tr>
-    <td width="50%" valign="top">
+<div align="center">
+
+<table style="border: none;">
+<tr>
+<td width="50%" valign="top" style="border: none;">
 
 ### 🧠 [Resume-Mind](https://github.com/Code-name-HeaLer/Resume-Mind)
 **AI-Powered Resume Builder**
@@ -158,30 +160,34 @@ export default swagat;
 - ATS optimization
 - Export to multiple formats
 
-**Status:** ⭐ Production  
+**Status:** ⭐ Production
+
 🔗 [View Repository](https://github.com/Code-name-HeaLer/Resume-Mind)
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top" style="border: none;">
 
 ### 🌊 [AI Impact Sense](https://github.com/Code-name-HeaLer/AI-Imapct-Sense)
 **AI Sentiment Analysis Platform**
 
-<sub>**Tech Stack:** Next.js • ML • Python</sub>
+<sub>**Tech Stack:** Next.js • Machine Learning • Python</sub>
 
 **Features:**
 - Real-time sentiment tracking
 - Data visualization
 - Predictive analytics
 
-**Status:** 🚀 Active Development  
+**Status:** 🚀 Active Development
+
 🔗 [View Repository](https://github.com/Code-name-HeaLer/AI-Imapct-Sense)
 
-    </td>
-  </tr>
+</td>
+</tr>
+</table>
 
-  <tr>
-    <td width="50%" valign="top">
+<table style="border: none;">
+<tr>
+<td width="50%" valign="top" style="border: none;">
 
 ### 📋 [RollCall Pro](https://github.com/Code-name-HeaLer/RollCall-Pro-v3)
 **Smart Attendance Management**
@@ -193,30 +199,34 @@ export default swagat;
 - Real-time updates
 - Analytics dashboard
 
-**Status:** ✅ Completed  
+**Status:** ✅ Completed
+
 🔗 [View Repository](https://github.com/Code-name-HeaLer/RollCall-Pro-v3)
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top" style="border: none;">
 
 ### 🍔 [QuickBite](https://github.com/Code-name-HeaLer/QuickBite)
 **Food Delivery Platform**
 
-<sub>**Tech Stack:** MERN • Redux • Stripe</sub>
+<sub>**Tech Stack:** MERN Stack • Redux • Stripe</sub>
 
 **Features:**
 - Real-time order tracking
 - Payment integration
 - Restaurant management
 
-**Status:** 🔥 Live  
+**Status:** 🔥 Live
+
 🔗 [View Repository](https://github.com/Code-name-HeaLer/QuickBite)
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
+</div>
 
+<br>
 ---
 
 <!-- GITHUB STATS SECTION -->
