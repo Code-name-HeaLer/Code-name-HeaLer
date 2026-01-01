@@ -148,7 +148,7 @@ export default swagat;
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
 ### 🧠 [Resume-Mind](https://github.com/Code-name-HeaLer/Resume-Mind)
 
