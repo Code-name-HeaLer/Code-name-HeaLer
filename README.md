@@ -243,9 +243,11 @@ status: 🔥 Live
 ## 📊 **GITHUB ANALYTICS**
 
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Code-name-HeaLer&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF&fire_color=FF6B6B" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Code-name-HeaLer&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
+
 <img width="49%" src="https://streak-stats.demolab.com?user=Code-name-HeaLer&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" />
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Code-name-HeaLer&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
+</div>
 
 </div>
 
