@@ -145,85 +145,22 @@ export default swagat;
 <h2 align="center">🌟 FEATURED PROJECTS</h2>
 
 <div align="center">
-
-<table style="border: none;">
-<tr>
-<td width="50%" valign="top" style="border: none;">
-
-### 🧠 [Resume-Mind](https://github.com/Code-name-HeaLer/Resume-Mind)
-**AI-Powered Resume Builder**
-
-<sub>**Tech Stack:** React • AI • TypeScript</sub>
-
-**Features:**
-- Smart resume generation
-- ATS optimization
-- Export to multiple formats
-
-**Status:** ⭐ Production
-
-🔗 [View Repository](https://github.com/Code-name-HeaLer/Resume-Mind)
-
-</td>
-<td width="50%" valign="top" style="border: none;">
-
-### 🌊 [AI Impact Sense](https://github.com/Code-name-HeaLer/AI-Imapct-Sense)
-**AI Sentiment Analysis Platform**
-
-<sub>**Tech Stack:** Next.js • Machine Learning • Python</sub>
-
-**Features:**
-- Real-time sentiment tracking
-- Data visualization
-- Predictive analytics
-
-**Status:** 🚀 Active Development
-
-🔗 [View Repository](https://github.com/Code-name-HeaLer/AI-Imapct-Sense)
-
-</td>
-</tr>
-</table>
-
-<table style="border: none;">
-<tr>
-<td width="50%" valign="top" style="border: none;">
-
-### 📋 [RollCall Pro](https://github.com/Code-name-HeaLer/RollCall-Pro-v3)
-**Smart Attendance Management**
-
-<sub>**Tech Stack:** React • Node.js • MongoDB</sub>
-
-**Features:**
-- Automated attendance tracking
-- Real-time updates
-- Analytics dashboard
-
-**Status:** ✅ Completed
-
-🔗 [View Repository](https://github.com/Code-name-HeaLer/RollCall-Pro-v3)
-
-</td>
-<td width="50%" valign="top" style="border: none;">
-
-### 🍔 [QuickBite](https://github.com/Code-name-HeaLer/QuickBite)
-**Food Delivery Platform**
-
-<sub>**Tech Stack:** MERN Stack • Redux • Stripe</sub>
-
-**Features:**
-- Real-time order tracking
-- Payment integration
-- Restaurant management
-
-**Status:** 🔥 Live
-
-🔗 [View Repository](https://github.com/Code-name-HeaLer/QuickBite)
-
-</td>
-</tr>
-</table>
-
+  <div>
+    <a href="https://github.com/Code-name-HeaLer/Resume-Mind">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Code-name-HeaLer&repo=Resume-Mind&theme=radical" />
+    </a>
+    <a href="https://github.com/Code-name-HeaLer/AI-Imapct-Sense">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Code-name-HeaLer&repo=AI-Imapct-Sense&theme=radical" />
+    </a>
+  </div>
+  <div>
+    <a href="https://github.com/Code-name-HeaLer/RollCall-Pro-v3">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Code-name-HeaLer&repo=RollCall-Pro-v3&theme=radical" />
+    </a>
+    <a href="https://github.com/Code-name-HeaLer/QuickBite">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Code-name-HeaLer&repo=QuickBite&theme=radical" />
+    </a>
+  </div>
 </div>
 
 <br>
