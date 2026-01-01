@@ -58,50 +58,33 @@ console.log("Welcome to my digital space! 🚀");
 
 ### **Frontend Technologies**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
-     
-  <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" />
-       
-  <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind CSS" />
-     
-  <img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="JavaScript" />
-     
-  <img src="https://skillicons.dev/icons?i=ts" width="65" height="65" alt="TypeScript" />
-     
-  <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" />
-     
-  <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Next.js" />
-   
+  <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind CSS" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="JavaScript" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" width="65" height="65" alt="TypeScript" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Next.js" />&nbsp;&nbsp;&nbsp;
 </p>
 
 ### **Backend Technologies**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
-   
-  <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express.js" />
-   
-  <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
-   
-  <img src="https://skillicons.dev/icons?i=sqlite" width="65" height="65" alt="SQLite" />
-   
-  <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
-   
-  <img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="Redis" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express.js" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=sqlite" width="65" height="65" alt="SQLite" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="Redis" />&nbsp;&nbsp;&nbsp;
 </p>
 
 ### **Tools & Platforms**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vite" width="65" height="65" alt="Vite" />
-   
-  <img src="https://skillicons.dev/icons?i=vercel" width="65" height="65" alt="Vercel" />
-   
-  <img src="https://skillicons.dev/icons?i=netlify" width="65" height="65" alt="Netlify" />
-   
-  <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
-   
-  <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
-   
-  <img src="https://cdn.brandfetch.io/cursor.com/fallback/lettermark/theme/dark/h/256/w/256/icon?c=1bfwsmEH20zzEfSNTed" width="65" height="65" alt="Cursor AI" />
+  <img src="https://skillicons.dev/icons?i=vite" width="65" height="65" alt="Vite" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel" width="65" height="65" alt="Vercel" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=netlify" width="65" height="65" alt="Netlify" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.brandfetch.io/cursor.com/fallback/lettermark/theme/dark/h/256/w/256/icon?c=1bfwsmEH20zzEfSNTed" width="65" height="65" alt="Cursor AI" />&nbsp;&nbsp;&nbsp;
 </p>
 
 </div>
@@ -161,15 +144,13 @@ console.log("Welcome to my digital space! 🚀");
 <p>
   <a href="https://twitter.com/codename_healer" target="_blank" rel="noreferrer"><span>
     <img src="https://skillicons.dev/icons?i=twitter" width="65" height="65" alt="Twitter" />
-  </span></a>
-      
+  </span></a>&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/swagat-nanda" target="_blank" rel="noreferrer"><span>
     <img src="https://skillicons.dev/icons?i=linkedin" width="65" height="65" alt="LinkedIn" />
-  </span></a>
-     
+  </span></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:swagatprasad3344@gmail.com"><span>
     <img src="https://skillicons.dev/icons?i=gmail" width="65" height="65" alt="Gmail" />
-  </span></a>
+  </span></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 </div>
