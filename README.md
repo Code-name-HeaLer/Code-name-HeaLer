@@ -163,9 +163,7 @@ features:
 status: ⭐ Production
 ```
 
-<a href="https://github.com/Code-name-HeaLer/Resume-Mind">
-  <img src="https://socialify.git.ci/Code-name-HeaLer/Resume-Mind/image?description=1&font=Raleway&language=1&name=1&theme=Auto" />
-</a>
+🔗 [View Repository](https://github.com/Code-name-HeaLer/Resume-Mind)
 
 </td>
 <td width="50%">
@@ -183,16 +181,14 @@ features:
 status: 🚀 Active Development
 ```
 
-<a href="https://github.com/Code-name-HeaLer/AI-Imapct-Sense">
-  <img src="https://socialify.git.ci/Code-name-HeaLer/AI-Imapct-Sense/image?description=1&font=Raleway&language=1&name=1&theme=Auto" />
-</a>
+🔗 [View Repository](https://github.com/Code-name-HeaLer/AI-Imapct-Sense)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 📋 [RollCall](https://github.com/Code-name-HeaLer/RollCall)
+### 📋 [RollCall Pro](https://github.com/Code-name-HeaLer/RollCall-Pro-v3)
 
 **Smart Attendance Management**
 
@@ -205,9 +201,7 @@ features:
 status: ✅ Completed
 ```
 
-<a href="https://github.com/Code-name-HeaLer/RollCall">
-  <img src="https://socialify.git.ci/Code-name-HeaLer/RollCall/image?description=1&font=Raleway&language=1&name=1&theme=Auto" />
-</a>
+🔗 [View Repository](https://github.com/Code-name-HeaLer/RollCall-Pro-v3)
 
 </td>
 <td width="50%">
@@ -225,9 +219,7 @@ features:
 status: 🔥 Live
 ```
 
-<a href="https://github.com/Code-name-HeaLer/QuickBite">
-  <img src="https://socialify.git.ci/Code-name-HeaLer/QuickBite/image?description=1&font=Raleway&language=1&name=1&theme=Auto" />
-</a>
+🔗 [View Repository](https://github.com/Code-name-HeaLer/QuickBite)
 
 </td>
 </tr>
