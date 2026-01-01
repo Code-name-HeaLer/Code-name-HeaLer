@@ -147,7 +147,7 @@ console.log("Welcome to my digital space! 🚀");
 
 <div align="center">
   
-![GitHub Streak](https://streak-stats.demolab.com?user=Code-name-HeaLer&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Code-name-HeaLer&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
