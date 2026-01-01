@@ -1,262 +1,203 @@
+# 🚀 **Swagat Prasad Nanda** | Software Development Engineer
+
 <div align="center">
-
-<!-- HERO SECTION WITH ANIMATED GRADIENT -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25,27&height=200&section=header&text=Swagat%20Prasad%20Nanda&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Crafting%20Digital%20Experiences%20%7C%20Software%20Engineer&descAlignY=55&descSize=18"/>
-
-<!-- ANIMATED TYPING TEXT -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=Building+the+Future%2C+One+Line+at+a+Time+%E2%9C%A8;AI+%2B+Web+%7C+Full-Stack+Innovation+%F0%9F%9A%80;Where+Code+Meets+Creativity+%F0%9F%8E%A8" alt="Typing SVG" />
-</a>
-
-<!-- SLEEK BADGE BAR -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00D9FF?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-India%20🇮🇳-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Innovating-4CAF50?style=for-the-badge" />
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=code-name-healer&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Hey+there!+I'm+Swagat+👋;Software+Engineer+%7C+India+🇮🇳;Building+the+future+with+code+💻;AI+%2B+Web+Dev+Enthusiast+🤖)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<!-- WHO AM I SECTION -->
 <div align="center">
-
-## 🎭 **WHO AM I?**
-
+  <img 
+    src="https://komarev.com/ghpvc/?username=code-name-healer&label=views&color=7AA2F7&style=flat"
+    alt="Profile Views"
+  />
 </div>
 
-```typescript
-const swagat: Developer = {
-  name: 'Swagat Prasad Nanda',
-  role: 'Software Development Engineer',
-  location: 'Bhubaneswar, India 🇮🇳',
-  languages: ['JavaScript', 'TypeScript', 'Python', 'Java', 'C++'],
-  architecture: ['Microservices', 'Event-Driven', 'Serverless', 'JAMstack'],
-  currentMission: 'Building scalable solutions that make a difference',
-  lifePhilosophy: 'Code with purpose, design with passion, deploy with confidence',
+
+## 🌟 **About Me**
+
+```javascript
+const swagat = {
+    location: "India 🇮🇳",
+    role: "Software Development Engineer",
+    currentFocus: ["Web Development", "AI Integration", "DSA"],
+    passions: ["Clean Code", "Problem Solving", "Innovation"],
+    funFact: "I explore abandoned places for adventure! 🏚️",
+    contact: "swagatprasad3344@gmail.com"
 };
 
-// Let's build something amazing together! 🚀
-export default swagat;
+console.log("Welcome to my digital space! 🚀");
 ```
 
+## 🎯 **Current Journey**
+
 <div align="center">
-
-### 💌 **Get in Touch**
-
-<a href="mailto:swagatprasad3344@gmail.com">
-  <img src="https://img.shields.io/badge/Email-swagatprasad3344%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/swagat-nanda">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/codename_healer">
-  <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
+  
+| 🔥 **Focus Areas** | 🌱 **Learning** | 🎯 **Goals** |
+|:---:|:---:|:---:|
+| Web Development | AI Integration | Full-Stack Mastery |
+| React Ecosystem | Data Structures | Open Source Contributions |
+| Modern JavaScript | Algorithms | System Design |
 
 </div>
 
----
+## 🛠️ Tech Arsenal
 
-<!-- TECH STACK SECTION -->
 <div align="center">
 
-## ⚡ **TECHNOLOGY UNIVERSE**
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎨 Frontend Mastery
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,html,css,vite" />
+### **Programming Languages**
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="C" />
+     
+  <img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" alt="C++" />
+     
+  <img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="Java" />
+     
+  <img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="JavaScript" />
+     
+  <img src="https://skillicons.dev/icons?i=python" width="65" height="65" alt="Python" />
+     
 </p>
 
-**Building interfaces that users love**
-
-- ⚛️ React & Next.js ecosystem
-- 🎨 Modern CSS (Tailwind, styled-components)
-- 📱 Responsive & accessible design
-- ⚡ Performance optimization
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Backend Power
-
+### **Frontend Technologies**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,python" />
+  <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
+   
+  <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" />
+   
+  <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind CSS" />
+   
+  <img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="JavaScript" />
+   
+  <img src="https://skillicons.dev/icons?i=ts" width="65" height="65" alt="TypeScript" />
+   
+  <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" />
+   
+  <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Next.js" />
+   
 </p>
 
-**Architecting robust systems**
-
-- 🔧 Node.js & Express expertise
-- 🗄️ Database design (SQL & NoSQL)
-- 🔐 Authentication & security
-- 📊 API development & optimization
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛠️ DevOps & Tools
-
+### **Backend Technologies**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
+   
+  <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express.js" />
+   
+  <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+   
+  <img src="https://skillicons.dev/icons?i=sqlite" width="65" height="65" alt="SQLite" />
+   
+  <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
+   
+  <img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="Redis" />
 </p>
 
-**Streamlining development**
-
-- 🚀 CI/CD pipelines
-- ☁️ Cloud deployment
-- 🐳 Containerization
-- 📦 Version control mastery
-
-</td>
-<td width="50%" valign="top">
-
-### 💻 Core Languages
-
+### **Tools & Platforms**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=vite" width="65" height="65" alt="Vite" />
+   
+  <img src="https://skillicons.dev/icons?i=vercel" width="65" height="65" alt="Vercel" />
+   
+  <img src="https://skillicons.dev/icons?i=netlify" width="65" height="65" alt="Netlify" />
+   
+  <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
+   
+  <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+   
+  <img src="https://cdn.brandfetch.io/cursor.com/fallback/lettermark/theme/dark/h/256/w/256/icon?c=1bfwsmEH20zzEfSNTed" width="65" height="65" alt="Cursor AI" />
 </p>
-
-**Multilingual problem solver**
-
-- 📚 Data Structures & Algorithms
-- 🧮 Competitive programming
-- 🔍 System design
-- 🎯 Clean code principles
-
-</td>
-</tr>
-</table>
 
 </div>
 
----
-
-<!-- FEATURED PROJECTS SECTION -->
-<h2 align="center">🌟 FEATURED PROJECTS</h2>
+## 🏆 Recent Projects
 
 <div align="center">
-  <div>
-    <a href="https://github.com/Code-name-HeaLer/Resume-Mind">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Code-name-HeaLer&repo=Resume-Mind&theme=radical&border_color=141321" />
-    </a>
-    <a href="https://github.com/Code-name-HeaLer/AI-Imapct-Sense">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Code-name-HeaLer&repo=AI-Imapct-Sense&theme=radical" />
-    </a>
-  </div>
-  <div>
-    <a href="https://github.com/Code-name-HeaLer/RollCall-Pro-v3">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Code-name-HeaLer&repo=RollCall-Pro-v3&theme=radical" />
-    </a>
-    <a href="https://github.com/Code-name-HeaLer/QuickBite">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Code-name-HeaLer&repo=QuickBite&theme=radical" />
-    </a>
-  </div>
+<i>Here are some of the projects I'm incredibly proud of. They represent my journey into deep, meaningful development.</i>
 </div>
-
 <br>
 
----
+<p align="center">
+  <a href="https://github.com/Code-name-HeaLer/Resume-Mind">
+    <img src="https://socialify.git.ci/Code-name-HeaLer/Resume-Mind/image?description=1&font=JetBrains+Mono&language=1&name=1&owner=1&pattern=Transparent&theme=Dark" alt="Resume-Mind" width="350" />
+  </a>
+  <a href="https://github.com/Code-name-HeaLer/AI-Imapct-Sense">
+    <img src="https://socialify.git.ci/Code-name-HeaLer/AI-Imapct-Sense/image?description=1&font=JetBrains+Mono&language=1&name=1&owner=1&pattern=Transparent&theme=Dark" alt="Gaming-Awards" width="350" />
+  </a>
+</p>
 
-<!-- GITHUB STATS SECTION -->
+<p align="center">
+  <a href="https://github.com/Code-name-HeaLer/RollCall">
+    <img src="https://socialify.git.ci/Code-name-HeaLer/RollCall/image?description=1&font=JetBrains+Mono&language=1&name=1&owner=1&pattern=Transparent&theme=Dark" alt="RollCall" width="350"/>
+  </a>
+  <a href="https://github.com/Code-name-HeaLer/QuickBite">
+    <img src="https://socialify.git.ci/Code-name-HeaLer/QuickBite/image?description=1&font=JetBrains+Mono&language=1&name=1&owner=1&pattern=Transparent&theme=Dark" alt="QuickBite-Fast-Food-Delivery-App" width="350" />
+  </a>
+</p>
+
+## 📊 **GitHub Analytics**
+
 <div align="center">
-
-## 📊 **GITHUB ANALYTICS**
-
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Code-name-HeaLer&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF&fire_color=FF6B6B" />
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Code-name-HeaLer&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
-
-<img width="49%" src="https://streak-stats.demolab.com?user=Code-name-HeaLer&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" />
+  
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Code-name-HeaLer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Code-name-HeaLer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff"/>
 
 </div>
 
+<div align="center">
+  
+![GitHub Streak](https://streak-stats.demolab.com?user=Code-name-HeaLer&theme=tokyonight&hide_border=true)
+
 </div>
 
----
+## 📈 **Contribution Graph**
 
-<!-- CURRENT FOCUS SECTION -->
+<div align="center">
+  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=code-name-healer&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)
+
+</div>
+
+## 🌐 Connect With Me
+
 <div align="center">
 
-## 🎯 **CURRENT MISSION**
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🔬 Learning
-
-```
-→ System Design
-→ Cloud Architecture
-→ AI/ML Integration
-→ GraphQL & tRPC
-```
-
-</td>
-<td width="33%" align="center">
-
-### 🚀 Building
-
-```
-→ Open Source Tools
-→ Dev Productivity Apps
-→ AI-Powered Solutions
-→ Portfolio Projects
-```
-
-</td>
-<td width="33%" align="center">
-
-### 🌱 Growing
-
-```
-→ Technical Writing
-→ Community Building
-→ Mentorship
-→ Public Speaking
-```
-
-</td>
-</tr>
-</table>
+<p>
+  <a href="https://twitter.com/codename_healer" target="_blank" rel="noreferrer"><span>
+    <img src="https://skillicons.dev/icons?i=twitter" width="65" height="65" alt="Twitter" />
+  </span></a>
+      
+  <a href="https://linkedin.com/in/swagat-nanda" target="_blank" rel="noreferrer"><span>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="65" height="65" alt="LinkedIn" />
+  </span></a>
+     
+  <a href="mailto:swagatprasad3344@gmail.com"><span>
+    <img src="https://skillicons.dev/icons?i=gmail" width="65" height="65" alt="Gmail" />
+  </span></a>
+</p>
 
 </div>
 
 ---
 
-<!-- ACTIVITY & CONTRIBUTIONS -->
 <div align="center">
 
-## 🌊 **RECENT ACTIVITY**
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=code-name-healer&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&custom_title=Contribution%20Journey" />
+### 💫 "Code is like humor. When you have to explain it, it's bad."
+*– Cory House*
 
 </div>
 
-<!-- INSPIRATIONAL QUOTE -->
 <div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" />
+  
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=75)
 
 </div>
 
-<!-- FOOTER -->
+</div>
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25,27&height=120&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%" />
-
----
-
-**⭐ Star my repositories if you find them interesting!**
-**🔗 Let's connect and collaborate on exciting projects!**
+  
+**⭐ If you found my profile interesting, consider starring some repositories!**
 
 </div>
