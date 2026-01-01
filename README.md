@@ -9,12 +9,12 @@
 ---
 
 <div align="center">
-  <p>
-    <a href="https://komarev.com/ghpvc/?username=code-name-healer">
-      <img src="https://komarev.com/ghpvc/?username=code-name-healer&label=Profile%20Views&color=2c2c2c&style=social" alt="Profile Views" />
-    </a>
-  </p>
+  <img 
+    src="https://komarev.com/ghpvc/?username=code-name-healer&label=Profile%20Views&color=00D9FF&style=for-the-badge"
+    alt="Profile Views"
+  />
 </div>
+
 
 ## 🌟 **About Me**
 
