@@ -246,13 +246,6 @@ status: 🔥 Live
 <img width="49%" src="https://streak-stats.demolab.com?user=Code-name-HeaLer&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" />
 
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Code-name-HeaLer&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@code_name_healer&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
-
-<!-- ACTIVITY GRAPH -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=code-name-healer&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&custom_title=Contribution%20Journey" />
-
-<!-- TROPHY CASE -->
-<img src="https://github-profile-trophy.vercel.app/?username=code-name-healer&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
 
 </div>
 
@@ -313,24 +306,14 @@ status: 🔥 Live
 
 ## 🌊 **RECENT ACTIVITY**
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<!-- SNAKE ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/code-name-healer/code-name-healer/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/code-name-healer/code-name-healer/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/code-name-healer/code-name-healer/output/github-contribution-grid-snake.svg">
-</picture>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=code-name-healer&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&custom_title=Contribution%20Journey" />
 
 </div>
-
----
 
 <!-- INSPIRATIONAL QUOTE -->
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=false&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" />
 
 </div>
 
