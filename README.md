@@ -144,9 +144,9 @@ export default swagat;
 <!-- FEATURED PROJECTS SECTION -->
 <h2 align="center">🌟 FEATURED PROJECTS</h2>
 
-<!-- First Row -->
-<div align="center">
-<div align="left" width="49%" style="display: inline-block; vertical-align: top;">
+<table width="100%" align="center">
+  <tr>
+    <td width="50%" valign="top">
 
 ### 🧠 [Resume-Mind](https://github.com/Code-name-HeaLer/Resume-Mind)
 **AI-Powered Resume Builder**
@@ -158,35 +158,30 @@ export default swagat;
 - ATS optimization
 - Export to multiple formats
 
-**Status:** ⭐ Production
-
+**Status:** ⭐ Production  
 🔗 [View Repository](https://github.com/Code-name-HeaLer/Resume-Mind)
 
-</div>
-<div align="left" width="49%" style="display: inline-block; vertical-align: top;">
+    </td>
+    <td width="50%" valign="top">
 
 ### 🌊 [AI Impact Sense](https://github.com/Code-name-HeaLer/AI-Imapct-Sense)
 **AI Sentiment Analysis Platform**
 
-<sub>**Tech Stack:** Next.js • Machine Learning • Python</sub>
+<sub>**Tech Stack:** Next.js • ML • Python</sub>
 
 **Features:**
 - Real-time sentiment tracking
 - Data visualization
 - Predictive analytics
 
-**Status:** 🚀 Active Development
-
+**Status:** 🚀 Active Development  
 🔗 [View Repository](https://github.com/Code-name-HeaLer/AI-Imapct-Sense)
 
-</div>
-</div>
+    </td>
+  </tr>
 
-<br>
-
-<!-- Second Row -->
-<div align="center">
-<div align="left" width="49%" style="display: inline-block; vertical-align: top;">
+  <tr>
+    <td width="50%" valign="top">
 
 ### 📋 [RollCall Pro](https://github.com/Code-name-HeaLer/RollCall-Pro-v3)
 **Smart Attendance Management**
@@ -198,31 +193,29 @@ export default swagat;
 - Real-time updates
 - Analytics dashboard
 
-**Status:** ✅ Completed
-
+**Status:** ✅ Completed  
 🔗 [View Repository](https://github.com/Code-name-HeaLer/RollCall-Pro-v3)
 
-</div>
-<div align="left" width="49%" style="display: inline-block; vertical-align: top;">
+    </td>
+    <td width="50%" valign="top">
 
 ### 🍔 [QuickBite](https://github.com/Code-name-HeaLer/QuickBite)
 **Food Delivery Platform**
 
-<sub>**Tech Stack:** MERN Stack • Redux • Stripe</sub>
+<sub>**Tech Stack:** MERN • Redux • Stripe</sub>
 
 **Features:**
 - Real-time order tracking
 - Payment integration
 - Restaurant management
 
-**Status:** 🔥 Live
-
+**Status:** 🔥 Live  
 🔗 [View Repository](https://github.com/Code-name-HeaLer/QuickBite)
 
-</div>
-</div>
+    </td>
+  </tr>
+</table>
 
-<br>
 
 ---
 
