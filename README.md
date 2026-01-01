@@ -142,7 +142,7 @@ export default swagat;
 ---
 
 <!-- FEATURED PROJECTS SECTION -->
-<div align="center">
+<h2 align="center">
 
 ## 🌟 **FEATURED PROJECTS**
 
@@ -225,7 +225,7 @@ status: 🔥 Live
 </tr>
 </table>
 
-</div>
+</h2>
 
 ---
 
