@@ -147,7 +147,7 @@ export default swagat;
 <div align="center">
   <div>
     <a href="https://github.com/Code-name-HeaLer/Resume-Mind">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Code-name-HeaLer&repo=Resume-Mind&show_icons=true&theme=transparent" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Code-name-HeaLer&repo=Resume-Mind&show_icons=true&theme=tokyonight" />
     </a>
     <a href="https://github.com/Code-name-HeaLer/AI-Imapct-Sense">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Code-name-HeaLer&repo=AI-Imapct-Sense&theme=radical" />
