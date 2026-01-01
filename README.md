@@ -146,9 +146,9 @@ export default swagat;
 
 ## 🌟 **FEATURED PROJECTS**
 
-<table>
+<table width="100%">
 <tr>
-<td width="100%">
+<td width="50%">
 
 ### 🧠 [Resume-Mind](https://github.com/Code-name-HeaLer/Resume-Mind)
 
