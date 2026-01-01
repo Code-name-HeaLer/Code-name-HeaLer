@@ -9,7 +9,10 @@
 ---
 
 <div align="center">
- <img src="https://komarev.com/ghpvc/?username=code-name-healer&label=Profile%20Views&color=00D9FF&style=flat-square" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=code-name-healer&label=Profile%20Views&color=00D9FF&style=flat-square"
+    alt="Profile Views"
+  />
 </div>
 
 
