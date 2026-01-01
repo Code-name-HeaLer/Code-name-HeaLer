@@ -144,84 +144,83 @@ export default swagat;
 <!-- FEATURED PROJECTS SECTION -->
 <h2 align="center">🌟 FEATURED PROJECTS</h2>
 
-<table width="100%">
-<tr>
-<td width="50%">
+<!-- First Row -->
+<div align="center">
+<div align="left" width="49%" style="display: inline-block; vertical-align: top;">
 
 ### 🧠 [Resume-Mind](https://github.com/Code-name-HeaLer/Resume-Mind)
-
 **AI-Powered Resume Builder**
 
-```yaml
-tech: [React, AI, TypeScript]
-features:
-  - Smart resume generation
-  - ATS optimization
-  - Export to multiple formats
-status: ⭐ Production
-```
+<sub>**Tech Stack:** React • AI • TypeScript</sub>
+
+**Features:**
+- Smart resume generation
+- ATS optimization
+- Export to multiple formats
+
+**Status:** ⭐ Production
 
 🔗 [View Repository](https://github.com/Code-name-HeaLer/Resume-Mind)
 
-</td>
-<td width="50%">
+</div>
+<div align="left" width="49%" style="display: inline-block; vertical-align: top;">
 
 ### 🌊 [AI Impact Sense](https://github.com/Code-name-HeaLer/AI-Imapct-Sense)
-
 **AI Sentiment Analysis Platform**
 
-```yaml
-tech: [Next.js, Machine Learning, Python]
-features:
-  - Real-time sentiment tracking
-  - Data visualization
-  - Predictive analytics
-status: 🚀 Active Development
-```
+<sub>**Tech Stack:** Next.js • Machine Learning • Python</sub>
+
+**Features:**
+- Real-time sentiment tracking
+- Data visualization
+- Predictive analytics
+
+**Status:** 🚀 Active Development
 
 🔗 [View Repository](https://github.com/Code-name-HeaLer/AI-Imapct-Sense)
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+</div>
+</div>
+
+<br>
+
+<!-- Second Row -->
+<div align="center">
+<div align="left" width="49%" style="display: inline-block; vertical-align: top;">
 
 ### 📋 [RollCall Pro](https://github.com/Code-name-HeaLer/RollCall-Pro-v3)
-
 **Smart Attendance Management**
 
-```yaml
-tech: [React, Node.js, MongoDB]
-features:
-  - Automated attendance tracking
-  - Real-time updates
-  - Analytics dashboard
-status: ✅ Completed
-```
+<sub>**Tech Stack:** React • Node.js • MongoDB</sub>
+
+**Features:**
+- Automated attendance tracking
+- Real-time updates
+- Analytics dashboard
+
+**Status:** ✅ Completed
 
 🔗 [View Repository](https://github.com/Code-name-HeaLer/RollCall-Pro-v3)
 
-</td>
-<td width="50%">
+</div>
+<div align="left" width="49%" style="display: inline-block; vertical-align: top;">
 
 ### 🍔 [QuickBite](https://github.com/Code-name-HeaLer/QuickBite)
-
 **Food Delivery Platform**
 
-```yaml
-tech: [MERN Stack, Redux, Stripe]
-features:
-  - Real-time order tracking
-  - Payment integration
-  - Restaurant management
-status: 🔥 Live
-```
+<sub>**Tech Stack:** MERN Stack • Redux • Stripe</sub>
+
+**Features:**
+- Real-time order tracking
+- Payment integration
+- Restaurant management
+
+**Status:** 🔥 Live
 
 🔗 [View Repository](https://github.com/Code-name-HeaLer/QuickBite)
 
-</td>
-</tr>
-</table>
+</div>
+</div>
 
 <br>
 
